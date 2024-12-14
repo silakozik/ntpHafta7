@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\bin\Debug\hafta7odev1.exe.config
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\bin\Debug\hafta7odev1.exe
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\bin\Debug\hafta7odev1.pdb
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\obj\Debug\hafta7odev1.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\obj\Debug\hafta7odev1.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\obj\Debug\hafta7odev1.exe
+C:\Users\SILA\source\repos\hafta7odev1\hafta7odev1\obj\Debug\hafta7odev1.pdb
